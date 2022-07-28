@@ -1,5 +1,5 @@
 # Extract-text-from-images-in-PDF-files-using-OCR
-# Extract-text-from-images-in-PDF-files-using-OCR
+
 ## Extracting text from images using pytesseract
 This repo contains a simple process to extract text from images in PDF files using OCR.
 Optical Character Recognition (OCR) is a technique of extracting or reading text from printed or scanned images, handwritten images
